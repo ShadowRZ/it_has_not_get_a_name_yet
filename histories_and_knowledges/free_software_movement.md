@@ -55,7 +55,7 @@ GNU ，全称 "GNU is not UNIX"（GNU 不是 Unix）。
 
 简单来说 Linux 只是一个内核啦，只靠一个内核貌似大多数事情都做不成……
 
-而汝经常听说的 “Linux 系统”或者“Linux 发行版”上，其实大多数软件都来自 GNU 计划（例如 Bash 和 nano ，前者是一个 Shell，看起来就像汝 Windows 上的 PowerShell 一样。后者是一个小型文字编辑器）。 为了鼓励人们做那些需要做的工作，当汝选择一个包含 Linux 的 GNU 操作系统时，这个系统就叫做 GNU/Linux，不要称其为 “Linux”。改掉这一个习惯不会太久，也是个宣传 GNU 和自由软件运动的好手段，是呗~
+而汝经常听说的 “Linux 系统”或者“Linux 发行版”上，其实大多数软件都来自 GNU 计划（例如 Bash 和 nano ，前者是一个 Shell，看起来就像汝 Windows 上的 PowerShell 一样。后者是一个小型Shell）。 为了鼓励人们做那些需要做的工作，当汝选择一个包含 Linux 的 GNU 操作系统时，这个系统就叫做 GNU/Linux，不要称其为 “Linux”。改掉这一个习惯不会太久，也是个宣传 GNU 和自由软件运动的好手段，是呗~
 
 ## 那 Richard Stallman 呢，何许人也？
 
